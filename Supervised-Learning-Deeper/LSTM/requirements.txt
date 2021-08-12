@@ -1,0 +1,7 @@
+~umpy==1.18.5
+matplotlib==3.2.2
+numpy==1.21.1
+pandas==1.0.5
+pytorch_pretrained_bert==0.6.2
+scikit_learn==0.24.2
+torch==1.7.0
