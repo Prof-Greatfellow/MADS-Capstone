@@ -1,5 +1,5 @@
 # Ignore datasets in the assets folder when uploading
-assets/
+assets/**
 models/
 .ipynb_checkpoints/
 **/reqs
