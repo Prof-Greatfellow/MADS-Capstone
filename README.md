@@ -7,16 +7,13 @@ Welcome to the repo for our MADS Capstone project! In this repo, we are dedicate
 
 *Figure Source: [Top 5 Business Continuity and Disaster Recovery Twitter Follows](https://solutionsreview.com/backup-disaster-recovery/top-5-business-continuity-and-disaster-recovery-twitter-follows/).*
 <br>
-**Table of Contents**
-
-[TOC]
 
 # On Code Reproducibility
 Most of our codes are written in Jupyter Notebook for easier demonstration, and only a few are in the form of python scripts. All codes SHOULD BE reproducible, though, as long as you
 
 1. Correctly install the packages as enumerated in the *requirements.txt* of each folder;
 
-2. Download the dataset from [here](https://drive.google.com/file/d/1lB5yFMmiCVX0BPEh8EkUF4j3B2eE42JP/view?usp=sharing) (which contains both our original and cleaned data), unzip it and put it under the [./assets](./assets)  folder.
+2. Download the dataset from [here](https://drive.google.com/file/d/1lB5yFMmiCVX0BPEh8EkUF4j3B2eE42JP/view?usp=sharing) (which contains both our original and cleaned data), unzip it and put it under the ./assets  folder.
 
 3. Run the desired notebook in Google Colab (Pro preferred), if you see this line at the beginning of the notebook: "**Google Colab Required. Google Colab Pro Preferred.**".
 
