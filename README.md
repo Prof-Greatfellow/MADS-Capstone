@@ -91,16 +91,19 @@ The highest accuracy score we have reached so far is **77.3% (BERT)**(!!请确�
 &nbsp; [Transformers/](./Supervised-Learning-Deeper/Transformers/): BERT-based classification, including AlBert, Bert, ConvBERT, DistilBert, FlauBERT, Funnel Transformers, and RoBERTa.
 
 # D. Unsupervised Learning
-(!!请更新图片)
+![](./figs-for-readme/lda_2016.jpg)
+![](./figs-for-readme/lda_2017.jpg)
+![](./figs-for-readme/lda_2018.jpg)
+![](./figs-for-readme/lda_2019.jpg)
 
 #### Introduction
-(!!请加上Intro)
+In this section, we used Latent Dirichlet Allocation(LDA) to find topic in tweet text from year 2016 to year 2019. 
 
 #### Output
-Please refer to Part F of our [BlogPost]() (!!请更新) for our research findings.
+Please refer to Part F of our [BlogPost]()  for our research findings.
 
 #### Related Codes
-(!!请按照上述模版添加对Codes的描述)
+&nbsp; [Capstone_unsupervised_learning.ipynb](./Unsupervised-Learning-LDA/Capstone_unsupervised_learning.ipynb): Latent Dirichlet Allocation(LDA)
 
 # Acknowledgements
 As our Capstone Project and the MADS program come to a close, we would like to give our sincerest thanks to the entire teaching group of UMSI-MADS. Your well-prepared courses and professional guidance have equipped us with the invincible power to conquer the world of big data. Thank you all, let's keep calm and go blue!
