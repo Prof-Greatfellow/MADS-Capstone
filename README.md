@@ -91,10 +91,10 @@ The highest accuracy score we have reached so far is **77.3% (BERT)**(!!请确�
 &nbsp; [Transformers/](./Supervised-Learning-Deeper/Transformers/): BERT-based classification, including AlBert, Bert, ConvBERT, DistilBert, FlauBERT, Funnel Transformers, and RoBERTa.
 
 # D. Unsupervised Learning
-![](./figs-for-readme/lda_2016.jpg)
-![](./figs-for-readme/lda_2017.jpg)
-![](./figs-for-readme/lda_2018.jpg)
-![](./figs-for-readme/lda_2019.jpg)
+![](./figs-for-readme/lda_2016.png)
+![](./figs-for-readme/lda_2017.png)
+![](./figs-for-readme/lda_2018.png)
+![](./figs-for-readme/lda_2019.png)
 
 #### Introduction
 In this section, we used Latent Dirichlet Allocation(LDA) to find topic in tweet text from year 2016 to year 2019. 
