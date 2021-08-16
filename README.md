@@ -28,7 +28,7 @@ We further scraped additional information on the tweets (including time of tweet
 
 #### Output
 - Final datasets: *df_train_scraped_final.csv*, *df_valid_scraped_final.csv*, and *df_test_scraped_final.csv*.
-Please also refer to Part B of our [BlogPost]() (!!请更新) for details.
+Please also refer to Part B of our [BlogPost](/Capstone-BlogPost-Latest.pdf) for details.
 
 #### Related Codes
 - [./Preprocess-Tweet/Preprocess-tweet.ipynb](Preprocess-Tweet/Preprocess-tweet.ipynb): Merge and clean the massive source datasets.
@@ -48,7 +48,7 @@ In this section, we aim to focus on **the statistical and network properties of 
 3. Are there any **interesting patterns in the twittersphere network**?
 
 #### Output
-Please refer to Parts C and D of our [BlogPost]() (!!请更新) for our research findings.
+Please refer to Parts C and D of our [BlogPost](/Capstone-BlogPost-Latest.pdf) for our research findings.
 
 #### Related Codes
 - [./Trends-And-Network/Trends-And-General-Properties.ipynb](./Trends-And-Network/Trends-And-General-Properties.ipynb): Explore the temporal trends and statistical properties of the disaster-related tweets.
@@ -67,7 +67,7 @@ In [Supervised-Learning-Explore](./Supervised-Learning-Explore), we briefly comp
 In [Supervised-Learning-Deeper](./Supervised-Learning-Deeper), we conducted a deeper analysis on two state-of-the-art ML branches: (1) LSTM-based classification, including plain LSTM and BERT-based LSTM, and (2) transformer-based classification, including AlBert, Bert, ConvBERT, DistilBert, FlauBERT, Funnel Transformers, and RoBERTa.
 
 #### Output
-The highest accuracy score we have reached so far is **77.3% (BERT)**(!!请确认). Please refer to Part E of our [BlogPost]() (!!请更新) for the ML methods we have used and compared.
+The highest accuracy score we have reached so far is **77.3% (BERT)**. Please refer to Part E of our [BlogPost](/Capstone-BlogPost-Latest.pdf)  for the ML methods we have used and compared.
 
 #### Related Codes
 - In [Supervised-Learning-Explore](./Supervised-Learning-Explore):
@@ -97,7 +97,7 @@ The highest accuracy score we have reached so far is **77.3% (BERT)**(!!请确�
 In this section, we used Latent Dirichlet Allocation(LDA) to find topic in tweet text from year 2016 to year 2019. 
 
 #### Output
-Please refer to Part F of our [BlogPost]()  for our research findings.
+Please refer to Part F of our [BlogPost](/Capstone-BlogPost-Latest.pdf)  for our research findings.
 
 #### Related Codes
 &nbsp; [Capstone_unsupervised_learning.ipynb](./Unsupervised-Learning-LDA/Capstone_unsupervised_learning.ipynb): Latent Dirichlet Allocation(LDA)
