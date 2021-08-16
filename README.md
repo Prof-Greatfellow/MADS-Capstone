@@ -92,9 +92,6 @@ The highest accuracy score we have reached so far is **77.3% (BERT)**(!!请确�
 
 # D. Unsupervised Learning
 ![](./figs-for-readme/lda_2016.png)
-![](./figs-for-readme/lda_2017.png)
-![](./figs-for-readme/lda_2018.png)
-![](./figs-for-readme/lda_2019.png)
 
 #### Introduction
 In this section, we used Latent Dirichlet Allocation(LDA) to find topic in tweet text from year 2016 to year 2019. 
