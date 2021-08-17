@@ -100,7 +100,10 @@ In this section, we used Non-Negative Matrix Factorization (NMF) and Latent Diri
 Please refer to Part F of our [BlogPost](/Capstone-BlogPost-Latest.pdf)  for our research findings.
 
 #### Related Codes
+- In [Unsupervised-Learning](./Unsupervised-Learning):
+
 &nbsp; [Unsupervised_learning_NMF.ipynb](./Unsupervised-Learning/Unsupervised_learning_NMF.ipynb): Non-Negative Matrix Factorization (NMF)
+
 &nbsp; [Unsupervised_learning_LDA.ipynb](./Unsupervised-Learning/Unsupervised_learning_LDA.ipynb): Latent Dirichlet Allocation(LDA)
 
 
