@@ -94,13 +94,15 @@ The highest accuracy score we have reached so far is **77.3% (BERT)**. Please re
 ![](./figs-for-readme/lda_2016.png)
 
 #### Introduction
-In this section, we used Latent Dirichlet Allocation(LDA) to find topic in tweet text from year 2016 to year 2019. 
+In this section, we used Non-Negative Matrix Factorization (NMF) and Latent Dirichlet Allocation(LDA) to analyze topics in tweet text from year 2016 to year 2019. 
 
 #### Output
 Please refer to Part F of our [BlogPost](/Capstone-BlogPost-Latest.pdf)  for our research findings.
 
 #### Related Codes
-&nbsp; [Capstone_unsupervised_learning.ipynb](./Unsupervised-Learning-LDA/Capstone_unsupervised_learning.ipynb): Latent Dirichlet Allocation(LDA)
+&nbsp; [Unsupervised_learning_NMF.ipynb](./Unsupervised-Learning/Unsupervised_learning_NMF.ipynb): Non-Negative Matrix Factorization (NMF)
+&nbsp; [Unsupervised_learning_LDA.ipynb](./Unsupervised-Learning/Unsupervised_learning_LDA.ipynb): Latent Dirichlet Allocation(LDA)
+
 
 # Acknowledgements
 As our Capstone Project and the MADS program come to a close, we would like to give our sincerest thanks to the entire teaching group of UMSI-MADS. Your well-prepared courses and professional guidance have equipped us with the invincible power to conquer the world of big data. Thank you all, let's keep calm and go blue!
