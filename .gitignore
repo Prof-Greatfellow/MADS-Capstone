@@ -3,3 +3,4 @@ assets/**
 models/
 .ipynb_checkpoints/
 **/reqs
+**/.ipynb_checkpoints
